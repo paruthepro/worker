@@ -55,6 +55,8 @@ github.com/Masterminds/semver/v3 v3.1.1/go.mod h1:VPu/7SZ7ePZ3QOrcuXROw5FAcLl4a0
 github.com/ReneKroon/ttlcache v1.6.0/go.mod h1:DG6nbhXKUQhrExfwwLuZUdH7UnRDDRA1IW+nBuCssvs=
 github.com/TicketsBot-cloud/common v0.0.0-20250307091931-5e68ab07bbf0 h1:tQZd/bi4guVWKiJpRgVFa+e6MnxfNlB61vPmUIzEanw=
 github.com/TicketsBot-cloud/common v0.0.0-20250307091931-5e68ab07bbf0/go.mod h1:gn88nKOiWkAgFhhTyuuo+sPFAQEVdTK+P/VXAxOBKNw=
+github.com/TicketsBot-cloud/common v0.0.0-20250323195529-8fa9730b9caf h1:Et5DomOwKdcMECu5hAeSyyOuKscwiaEomI038KHaaWI=
+github.com/TicketsBot-cloud/common v0.0.0-20250323195529-8fa9730b9caf/go.mod h1:gn88nKOiWkAgFhhTyuuo+sPFAQEVdTK+P/VXAxOBKNw=
 github.com/TicketsBot-cloud/database v0.0.0-20250306095726-e4915520c1ab h1:Dhdgzp/W58VkgWOzdaUmERMLcHrh58I5wGjH+RZaItA=
 github.com/TicketsBot-cloud/database v0.0.0-20250306095726-e4915520c1ab/go.mod h1:LPDEn9e5wccH7rq/pUlVcL3UhyLnnwdM2dhj0tp/ljo=
 github.com/TicketsBot-cloud/database v0.0.0-20250320204953-aabca063df41 h1:rWNsA+a1GvC+Ym/vj56c36maJCCHMz8ApnA4tDZUPjQ=

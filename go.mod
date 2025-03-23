@@ -8,7 +8,7 @@ toolchain go1.24.0
 
 require (
 	cloud.google.com/go/profiler v0.4.1
-	github.com/TicketsBot-cloud/common v0.0.0-20250307091931-5e68ab07bbf0
+	github.com/TicketsBot-cloud/common v0.0.0-20250323195529-8fa9730b9caf
 	github.com/TicketsBot-cloud/database v0.0.0-20250320204953-aabca063df41
 	github.com/TicketsBot/analytics-client v0.0.0-20240724103359-30f5dac821e6
 	github.com/TicketsBot/archiverclient v0.0.0-20241012221057-16a920bfb454
